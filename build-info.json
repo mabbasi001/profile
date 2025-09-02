@@ -1,0 +1,12 @@
+{
+  "buildTime": "2025-09-02T14:45:21.963Z",
+  "version": "1.0.0",
+  "hash": "mf2nuai6",
+  "files": {
+    "html": "index.html",
+    "css": "styles.min.css",
+    "js": "script.min.js"
+  },
+  "optimized": true,
+  "minified": true
+}
